@@ -27,16 +27,6 @@ Gotham News is a dynamic and responsive React-based web application that deliver
 | React Router    | Handles multiple routes and navigation |
 | JSX + CSS       | Component-based structure and design   |
 
----
-
-## 📸 Screenshots
-
-| Home Page                             | News Cards                           |
-|--------------------------------------|--------------------------------------|
-| ![Home Page](./screenshots/home.png) | ![News Card](./screenshots/card.png) |
-
----
-
 ## 📂 Folder Structure
 
 ```
