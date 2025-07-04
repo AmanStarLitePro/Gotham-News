@@ -104,8 +104,8 @@ The app will run at `http://localhost:3000`.
 ## 👨‍💻 Author
 
 **Aman Kumar**
-📧 [amanstarlitepro@gmail.com](mailto:amanstarlitepro@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-a487b5252/)
+📧 [amankumarsrivastav124@gmail.com](mailto:amankumarsrivastav124@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-srivastav-aa438b28b/)
 🌐 [GitHub](https://github.com/AmanStarLitePro)
 
 ---
